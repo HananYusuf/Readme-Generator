@@ -44,18 +44,18 @@ const generateMarkdown = require("./utils/generateMarkdown")
             message: 'choose licence for your application from the list?',
             name: 'licence',
             choices: [
-                "MIT", "GNU"
+                "MIT", "GNU", "Apache", "'Mozilla",
             ]
         },
         {
             type: 'input',
-            message: 'contribution?',
+            message: 'Please provide guidelines on how other developers can contribute to your project?',
             name: 'contribution',
         },
         {
             type: 'input',
-            message: 'Tests?',
-            name: 'username',
+            message: 'Please enter any tests written for your app?',
+            name: 'test',
         },
         {
             type: 'input',
