@@ -24,6 +24,8 @@ Steps required to install this project:To generate your own README, first run `n
 ## Usage 
 When you run `node index.js`, the application uses the `inquirer` package to prompt you in the command line with a series of questions about your project. Based on your response to the inquirer prompts the application then takes your responses and append it to the appropriate sections. Finally, `fs.writeFile` is used to generate your project's README.md file.
 
+![](Assets/readme.gif)
+
 ## Contribution
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 
