@@ -26,7 +26,7 @@ ${data.installation}
 ## Usage 
 ${data.usage}
 
-![](/Assets/readme.gif)
+![](Assets/readme.gif)
 
 ## Contribution
 ${data.contribution}
