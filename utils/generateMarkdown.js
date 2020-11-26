@@ -26,6 +26,8 @@ ${data.installation}
 ## Usage 
 ${data.usage}
 
+![](/Assets/readme.gif)
+
 ## Contribution
 ${data.contribution}
 
